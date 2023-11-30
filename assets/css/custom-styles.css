@@ -1,0 +1,10 @@
+/* PORTFOLIO */
+.portfolio .link .w-title {
+  transition: all 0.3s;
+}
+
+.portfolio .link:hover .w-title {
+  color: #0078ff;
+}
+
+/* PORTFOLIO */
