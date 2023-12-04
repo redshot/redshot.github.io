@@ -1,4 +1,8 @@
 /* PORTFOLIO */
+.about-info {
+  word-wrap: break-word;
+}
+
 .portfolio .link .w-title {
   transition: all 0.3s;
 }
