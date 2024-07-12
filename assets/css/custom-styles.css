@@ -1,3 +1,9 @@
+/* HERO */
+#hero .overlay-itro {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+/* HERO */
+
 /* PORTFOLIO */
 .about-info {
   word-wrap: break-word;
@@ -10,5 +16,16 @@
 .portfolio .link:hover .w-title {
   color: #0078ff;
 }
-
 /* PORTFOLIO */
+
+/* COUNTER */
+.section-counter .overlay-mf {
+  opacity: 0.59;
+}
+/* COUNTER */
+
+/* CONTACT */
+#contact .overlay-mf {
+  opacity: 0.59;
+}
+/* CONTACT */
